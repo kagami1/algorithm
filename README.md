@@ -1,2 +1,3 @@
 # algorithm
-for practicing algorithm
+for practice algorithm
+I like algorithm
