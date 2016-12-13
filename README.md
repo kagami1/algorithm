@@ -1,2 +1,2 @@
 # algorithm
-for practicing algorithm
+for practice algorithm
